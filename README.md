@@ -8,7 +8,7 @@
   I'm currently employed as an Application Technician at Howden Insurance Services working to improve their insurance documentation.
   I've been there since 2022 and have worked my way into my current role from a support role. <br></br> 
   I've been studying HTML, CSS and C# for over a year and have studied design concepts since school. I have grown fond of the development career path and look forward to seeing how I tackle it. <br></br>
-  My current interests cater towards creativity and applying what I've learnt from User interaction into my work, to design pieces that have human factors in mind.
+  My current interests cater towards creativity and applying what I've learnt from user interaction into my work, to design pieces that have human factors in mind.
 </p>
 
 <p align="center">
