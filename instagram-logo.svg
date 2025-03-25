@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="instaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFC107;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#FF5722;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF1744;stop-opacity:1" />
+      <stop offset="75%" style="stop-color:#D500F9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2196F3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded Rectangle Background -->
+  <rect width="512" height="512" rx="100" fill="url(#instaGradient)"/>
+  
+  <!-- White Outer Circle -->
+  <circle cx="256" cy="256" r="180" fill="white"/>
+  
+  <!-- Instagram Inner Circle -->
+  <circle cx="256" cy="256" r="160" fill="url(#instaGradient)"/>
+  
+  <!-- Camera Lens -->
+  <circle cx="256" cy="256" r="80" fill="white"/>
+  
+  <!-- Inner Dark Circle -->
+  <circle cx="256" cy="256" r="60" fill="#333"/>
+  
+  <!-- Small White Dot -->
+  <circle cx="330" cy="190" r="20" fill="white"/>
+</svg>
