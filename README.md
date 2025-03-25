@@ -19,11 +19,11 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://www.instagram.com/josh.hil_">
-    <img src="https://github.com/user-attachments/assets/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
+    <img src="instagram-icon.svg" alt="Instagram" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/josh-hill-993b87296">
-    <img src="https://github.com/user-attachments/assets/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
