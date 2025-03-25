@@ -1,6 +1,6 @@
 # <p align="center">Hello! I am</p>
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/08ea1ca3-f4d8-4962-8cdf-e017e7b9a620">
 </p>
 
