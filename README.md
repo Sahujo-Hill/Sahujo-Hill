@@ -3,6 +3,8 @@
   <img src="https://github.com/user-attachments/assets/08ea1ca3-f4d8-4962-8cdf-e017e7b9a620">
 </p>
 
+<p></p>
+
 ## 💫 About Me:
 - 🥅 Working in .NET building insurance software.
 - 🪡 Tailoring user experiences to match a wide variety of business dependencies.
@@ -11,7 +13,8 @@
 
 <p align="left">
   I'm currently employed as an Associate Software Engineer at Howden Insurance Services developing and maintaining interactive insurance software.
-  I've worked primarily in Blazor, writing front-end and back-end for over a year for personal projects and coursework. I've recently begun writing bUnit and nUnit tests as well as hosting sites via Azure, Hostinger and fly.io.<br></br>
+  I've worked primarily in Blazor, writing front-end and back-end for over a year for work, personal projects and coursework. My team and I practice test-driven and trunk-based development.
+  I've hosted sites via Azure, Hostinger and fly.io.
   My current interests cater towards creativity and applying what I've learnt from user interaction into my work, to design pieces that have human factors in mind.
 </p>
 
@@ -30,8 +33,17 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Off-topic
+- ⚔️ Painting, reading and watching anything from the Warhammer universe.
+- 🌳 Watering, repotting and reviving bonsai trees.
+- 🎮 Spawning, dying and respawning in multiplayer/singleplayer video games.
 
-<p>Coming soon!</p>
+<p align="left">
+  🦇 I'm a sucker for dark and dingy universes so am right at home in the Warhammer universe. I primarily paint Chaos (apologies, fans of the emperor) and am currently painting some Night Lords, inspired by <a href="https://infinitespeculation.wordpress.com/2020/12/10/book-review-night-lords-the-omnibus-by-aaron-dembski-bowden/">The Night Lords Omnibus</a> by the wonderful Aaron Dembski-Bowden.
+</p>
+
+<p align="left">
+   🚗 I love cars, thanks to my father's position in the industry, and am fortunate enough to drive a beautiful 2020 Kona blue Mustang (responsibly) around the country lanes of England. I'm currently working on a <a href="https://fordmustang.fly.dev/">portfolio for the car</a>, this is accessible via QR code at car shows to bring some .NET to these .OLD-fashioned car shows.
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sahujo-hill&icon=0&color=0)](https://visitcount.itsvg.in)
