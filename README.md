@@ -38,7 +38,7 @@
 - 🎮 Spawning, dying and respawning in multiplayer/singleplayer video games.
 
 <p align="left">
-  🦇 I'm a sucker for dark and dingy universes so am right at home in the Warhammer universe. I primarily paint Chaos (apologies, fans of the emperor) and am currently painting some Night Lords, inspired by <a href="https://infinitespeculation.wordpress.com/2020/12/10/book-review-night-lords-the-omnibus-by-aaron-dembski-bowden/">The Night Lords Omnibus</a> by the wonderful Aaron Dembski-Bowden.
+  🦇 I'm a sucker for dark and dingy universes so I'm right at home in the Warhammer universe. I primarily paint Chaos (apologies, fans of the emperor) and am currently painting some Night Lords, inspired by <a href="https://infinitespeculation.wordpress.com/2020/12/10/book-review-night-lords-the-omnibus-by-aaron-dembski-bowden/">The Night Lords Omnibus</a> by the wonderful Aaron Dembski-Bowden.
 </p>
 
 <p align="left">
