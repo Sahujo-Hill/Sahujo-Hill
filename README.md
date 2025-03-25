@@ -10,7 +10,7 @@
 - 🎯 Looking into and experimenting with game development using Unreal and C++
 
 <p align="left">
-  I'm currently employed as an Associate Software Engineer at Howden Insurance Services developing, refactoring and maintaining interactive insurance software.
+  I'm currently employed as an Associate Software Engineer at Howden Insurance Services developing and maintaining interactive insurance software.
   I've worked primarily in Blazor, writing front-end and back-end for over a year for personal projects and coursework. I've recently begun writing bUnit and nUnit tests as well as hosting sites via Azure, Hostinger and fly.io.<br></br>
   My current interests cater towards creativity and applying what I've learnt from user interaction into my work, to design pieces that have human factors in mind.
 </p>
