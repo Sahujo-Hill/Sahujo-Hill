@@ -42,7 +42,7 @@
 </p>
 
 <p align="left">
-   🚗 I love cars, thanks to my father's position in the industry, and am fortunate enough to drive a beautiful 2020 Kona blue Mustang (responsibly) around the country lanes of England. I'm currently working on a mobile-first <a href="https://fordmustang.fly.dev/">portfolio for the car</a>, this is accessible via QR code at car shows to bring some .NET to these .OLD-fashioned car shows.
+   🚗 I'm a sucker for cars, and am fortunate enough to drive a beautiful 2020 Kona blue Mustang (responsibly) around the country lanes of England. I'm currently working on a mobile-first <a href="https://fordmustang.fly.dev/">portfolio for the car</a>, this is accessible via QR code at car shows to bring some .NET to these .OLD-fashioned car shows.
 </p>
 
 ---
