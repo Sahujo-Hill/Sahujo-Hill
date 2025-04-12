@@ -6,10 +6,10 @@
 <p></p>
 
 ## 💫 About Me:
-- 🥅 Working in .NET building insurance software.
-- 🪡 Tailoring user experiences to match a wide variety of business dependencies.
-- 🐦‍🔥 Learning styling frameworks such as MudBlazor.
-- 🎯 Looking into and experimenting with game development using Unreal and C++
+- 🥅 **Working** in .NET building insurance software.
+- 🪡 **Tailoring** user experiences to match a wide variety of business dependencies.
+- 🐦‍🔥 **Learning** styling frameworks such as MudBlazor.
+- 🎯 **Looking** into and experimenting with game development using Unreal and C++
 
 <p align="left">
   I'm currently employed as an Associate Software Engineer at Howden Insurance Services developing and maintaining interactive insurance software.
@@ -37,9 +37,9 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Off-topic
-- ⚔️ Painting, reading and watching anything from the Warhammer universe.
-- 🌳 Watering, repotting and reviving bonsai trees.
-- 🎮 Spawning, dying and respawning in multiplayer/singleplayer video games.
+- ⚔️ **Painting**, reading and watching anything from the Warhammer universe.
+- 🌳 **Watering**, repotting and reviving bonsai trees.
+- 🎮 **Spawning**, dying and respawning in multiplayer/singleplayer video games.
 
 <p align="left">
   🦇 Warhammer quenches my thirst for armageddon. I primarily paint Chaos (apologies, fans of the emperor) and am currently painting some Night Lords, inspired by <a href="https://infinitespeculation.wordpress.com/2020/12/10/book-review-night-lords-the-omnibus-by-aaron-dembski-bowden/">The Night Lords Omnibus</a> by the wonderful Aaron Dembski-Bowden. Check out my reddit for some shots of my work.
