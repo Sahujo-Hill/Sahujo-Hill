@@ -28,7 +28,7 @@
     <img src="LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
   </a>  
   &nbsp;&nbsp;&nbsp;
-  <a href="[https://www.linkedin.com/in/josh-hill-993b87296](https://www.reddit.com/user/Josh_Hilll/)">
+  <a href="https://www.reddit.com/user/Josh_Hilll/">
     <img src="Reddit_Logo.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
