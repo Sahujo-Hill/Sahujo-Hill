@@ -42,7 +42,7 @@
 - 🎮 Spawning, dying and respawning in multiplayer/singleplayer video games.
 
 <p align="left">
-  🦇 Warhammer quenches my thirst for armageddon. I primarily paint Chaos (apologies, fans of the emperor) and am currently painting some Night Lords, inspired by <a href="https://infinitespeculation.wordpress.com/2020/12/10/book-review-night-lords-the-omnibus-by-aaron-dembski-bowden/">The Night Lords Omnibus</a> by the wonderful Aaron Dembski-Bowden.
+  🦇 Warhammer quenches my thirst for armageddon. I primarily paint Chaos (apologies, fans of the emperor) and am currently painting some Night Lords, inspired by <a href="https://infinitespeculation.wordpress.com/2020/12/10/book-review-night-lords-the-omnibus-by-aaron-dembski-bowden/">The Night Lords Omnibus</a> by the wonderful Aaron Dembski-Bowden. Check out my reddit for some shots of my work.
 </p>
 
 <p align="left">
