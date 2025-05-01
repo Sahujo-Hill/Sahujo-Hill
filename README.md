@@ -9,7 +9,7 @@
 - 🥅 **Working** in .NET building insurance software.
 - 🪡 **Tailoring** user experiences to match a wide variety of business dependencies.
 - 🐦‍🔥 **Learning** styling frameworks such as MudBlazor.
-- 🎯 **Looking** into and experimenting with game development using Unreal and C++
+- 🎯 **Looking** into and experimenting with game development using Unity
 
 <p align="left">
   I'm currently employed as an Associate Software Engineer at Howden Insurance Services developing and maintaining interactive insurance software.
