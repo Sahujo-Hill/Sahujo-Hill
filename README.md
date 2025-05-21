@@ -36,6 +36,15 @@
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+## Current Projects
+**🟥 Never Sated**
+
+I'm building a small indie video game using the Unity engine where everything will be designed and built by me, including characters, levels, music, animation, story etc.
+Unity makes use of C# and .NET practices so I'm not straying away from my roots, whilst building my knowledge of the video game development process.
+Everything I'm doing/have done can be tracked by <a href="https://www.notion.so/Project-Management-1e5519cf45638074bc97fa8f3ea8a379?pvs=4">this board</a>.
+I'm also collating images of the artwork and parts of the game <a href="https://www.notion.so/Concept-Art-1eb519cf456380eaac84e3a25e9fe97c?pvs=4">here</a> but note that this page won't contain finalised designs to help prevent plagiarism. 
+This project is looking to take upwards of 2 years to complete based on my current trajectory and I don't plan to rush it, it's a passion project at the end of the day.
+
 ## Off-topic
 - ⚔️ **Painting**, reading and watching anything from the Warhammer universe.
 - 🌳 **Watering**, repotting and reviving bonsai trees.
