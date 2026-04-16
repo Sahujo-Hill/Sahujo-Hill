@@ -41,7 +41,7 @@ This project is looking to take upwards of 2 years to complete based on my curre
 
 **🌐 Gourm-AI**
 
-<strong>Gourm is an AI cooking assistant that started off as a simple shopping list generator</strong>
+<strong>Gourm is an AI cooking assistant that started off as a simple shopping list generator</strong>.
 I wanted to be able to upload recipes, with instructions and ingredients, that a user could select and then generate a shopping list to make the hassle of choosing meals and buying the content super simple.
 This began to grow, and I realised I could reverse engineer Gourm to spit out recipes based on the ingredients one had in their fridge.
 So now Gourm has two main functionalities, to produce shopping lists based on uploaded recipes, as well as produce recipes based on uploaded ingredients.
